@@ -1,0 +1,25 @@
+baseURL = "https://prorepairguide.com/"
+languageCode = "en-us"
+title = "Pro Repair Guide"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  description = "Professional repair guides, contractor tips, and home service advice."
+  author = "Pro Repair Guide"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
