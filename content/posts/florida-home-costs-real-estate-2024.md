@@ -6,6 +6,7 @@ description: "Comprehensive 2024 guide to Florida home prices, regional disparit
 slug: "florida-home-costs-real-estate-2024"
 tags: ["Florida real estate", "home affordability", "housing market 2024"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Complete Guide to Florida Home Costs, Real Estate, and Living Expenses in 2024

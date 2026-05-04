@@ -6,6 +6,7 @@ description: "Breaking down Florida's true homeownership costs: median prices by
 slug: "florida-homeownership-costs"
 tags: ["Florida real estate", "homebuying costs", "homeowners insurance", "property taxes", "housing market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 4385cb6b4cc2081f

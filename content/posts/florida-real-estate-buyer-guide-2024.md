@@ -6,6 +6,7 @@ description: "A data-informed 2024 guide to Florida housing, insurance, and cost
 slug: "florida-real-estate-buyer-guide-2024"
 tags: ["Florida real estate", "home buying", "cost of living", "market trends", "insurance costs"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Navigating the Florida Real Estate Market: A 2024 Buyer’s Guide

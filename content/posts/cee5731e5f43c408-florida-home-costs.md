@@ -6,6 +6,7 @@ description: "Comprehensive 2024 guide to Florida home prices, cost of living, i
 slug: "cee5731e5f43c408-florida-home-costs"
 tags: ["Florida real estate", "home prices", "cost of living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

@@ -6,6 +6,7 @@ description: "Discover the true cost of owning a home in Florida. Analysis of in
 slug: "florida-homeownership-costs-insurance-taxes-market-trends"
 tags: ["Florida Real Estate", "Homeownership Costs", "Property Insurance", "Real Estate Market Trends", "Florida Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # da3836957e7ed4c4

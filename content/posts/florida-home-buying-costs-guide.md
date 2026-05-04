@@ -6,6 +6,7 @@ description: "A detailed breakdown of Florida real estate costs—including insu
 slug: "florida-home-buying-costs-guide"
 tags: ["Florida real estate", "home buying costs", "property taxes", "homeowners insurance", "homestead exemption"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 16d08655123ae2fc

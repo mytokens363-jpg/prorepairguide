@@ -6,6 +6,7 @@ description: "Discover the true cost of owning a home in Florida. From insurance
 slug: "real-price-of-paradise-florida-home-costs"
 tags: ["Florida Real Estate", "Homeownership Costs", "Florida Insurance", "Property Taxes", "Cost of Living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # f295f47711fc4848

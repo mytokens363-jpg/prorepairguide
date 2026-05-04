@@ -6,6 +6,7 @@ description: "Explore the 2024 Florida real estate market. Get insights on media
 slug: "florida-real-estate-market-2024-guide"
 tags: ["Florida Real Estate", "Home Buying Guide", "Real Estate Investment", "Property Insurance", "2024 Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Navigating the Florida Real Estate Market: A Comprehensive 2024 Guide

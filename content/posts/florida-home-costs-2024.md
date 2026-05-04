@@ -6,6 +6,7 @@ description: "Discover the real cost of buying and living in Florida in 2024. Br
 slug: "florida-home-costs-2024"
 tags: ["Florida Real Estate", "Home Costs", "2024 Housing Market", "Homeowners Insurance", "Property Taxes"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Price of Paradise: Florida Home Costs in 2024

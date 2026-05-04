@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. Analyze housing, insu
 slug: "real-cost-of-living-in-florida-buyers-guide"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Property Taxes", "Moving to Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Living in Florida: What Buyers Need to Know

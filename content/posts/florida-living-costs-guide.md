@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. A complete guide to r
 slug: "florida-living-costs-guide"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Florida Taxes", "Relocation Guide"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Price of Paradise: A Complete Guide to Florida Living Costs

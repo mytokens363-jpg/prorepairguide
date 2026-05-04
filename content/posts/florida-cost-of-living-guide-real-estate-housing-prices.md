@@ -6,6 +6,7 @@ description: "A transparent breakdown of Florida's real estate costs, insurance,
 slug: "florida-cost-of-living-guide-real-estate-housing-prices"
 tags: ["Florida real estate", "cost of living", "home prices", "regional housing trends", "Florida insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Navigating the Florida Real Estate Market: A Complete Cost of Living Guide

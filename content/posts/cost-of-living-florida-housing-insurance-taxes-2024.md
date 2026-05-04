@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. Analyze housing price
 slug: "cost-of-living-florida-housing-insurance-taxes-2024"
 tags: ["Florida Cost of Living", "Florida Real Estate", "Homeowners Insurance", "Property Taxes", "Florida Relocation"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 6e677d30a807755d

@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. Analyze median home p
 slug: "cost-of-living-florida-2024-home-prices-insurance-taxes"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Property Taxes", "Moving to Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # c522329b4ea726a4

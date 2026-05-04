@@ -6,6 +6,7 @@ description: "Discover the true cost of Florida homeownership. Beyond the sticke
 slug: "real-cost-owning-home-florida-hidden-expenses"
 tags: ["Florida Real Estate", "Homeownership Costs", "Property Taxes", "Home Insurance", "Florida Living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Owning a Home in Florida: Beyond the Sticker Price

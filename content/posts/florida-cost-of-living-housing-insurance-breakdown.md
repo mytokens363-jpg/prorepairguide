@@ -6,6 +6,7 @@ description: "Explore Florida's true cost of living: median home prices, insuran
 slug: "florida-cost-of-living-housing-insurance-breakdown"
 tags: ["Florida real estate", "cost of living", "home insurance", "regional housing trends", "climate risk"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # af07cef2588086db

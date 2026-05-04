@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. From insurance premiu
 slug: "real-cost-of-living-florida-homebuyers-guide"
 tags: ["Florida Real Estate", "Home Buying Tips", "Cost of Living", "Property Insurance", "Florida Taxes"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Living in Florida: A Homebuyer’s Guide

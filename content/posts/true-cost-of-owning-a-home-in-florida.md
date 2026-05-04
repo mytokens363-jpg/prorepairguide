@@ -6,6 +6,7 @@ description: "Discover the true cost of owning a home in Florida. Breakdown of r
 slug: "true-cost-of-owning-a-home-in-florida"
 tags: ["Florida Real Estate", "Homeownership Costs", "Florida Insurance", "Property Taxes", "Cost of Living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 09e1242964541460

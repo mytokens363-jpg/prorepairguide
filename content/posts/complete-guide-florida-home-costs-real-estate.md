@@ -6,6 +6,7 @@ description: "Discover the true cost of owning a home in Florida. From insurance
 slug: "complete-guide-florida-home-costs-real-estate"
 tags: ["Florida Real Estate", "Homeownership Costs", "Property Taxes", "Home Insurance", "Florida Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Complete Guide to Florida Home Costs and Real Estate

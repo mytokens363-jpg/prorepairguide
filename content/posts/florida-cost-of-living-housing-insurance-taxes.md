@@ -6,6 +6,7 @@ description: "A data-driven breakdown of Florida’s rising home prices, insuran
 slug: "florida-cost-of-living-housing-insurance-taxes"
 tags: ["Florida housing", "cost of living", "property taxes", "home insurance", "real estate market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 ## The Real Cost of Living in the Sunshine State: A Deep Dive into Florida Home Prices and Expenses

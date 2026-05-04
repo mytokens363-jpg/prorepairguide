@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. Analyze median home p
 slug: "florida-real-estate-costs-living-expenses-guide"
 tags: ["Florida Real Estate", "Cost of Living", "Home Buying Guide", "Florida Housing Market", "Real Estate Investment"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Complete Guide to Florida Real Estate Costs and Living Expenses

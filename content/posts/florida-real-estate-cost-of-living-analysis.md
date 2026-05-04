@@ -6,6 +6,7 @@ description: "A detailed breakdown of Florida's real estate market, regional pri
 slug: "florida-real-estate-cost-of-living-analysis"
 tags: ["Florida real estate", "cost of living", "homeownership", "property taxes", "home insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 71676930aeef2031

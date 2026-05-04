@@ -6,6 +6,7 @@ description: "A deep dive into Florida's rising housing costs, insurance, utilit
 slug: "florida-cost-of-living-real-estate-analysis"
 tags: ["Florida real estate", "cost of living", "homeownership", "insurance costs", "housing market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 4880905e18d65f0e

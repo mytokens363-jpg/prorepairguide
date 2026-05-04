@@ -6,6 +6,7 @@ description: "Explore Florida's real estate market trends, median home prices, a
 slug: "florida-real-estate-market-overview-cost-of-living"
 tags: ["Florida Real Estate", "Cost of Living", "Homeownership Costs", "Florida Insurance", "Relocation Guide"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # c861eca4f3005b28

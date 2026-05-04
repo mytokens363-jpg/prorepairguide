@@ -6,6 +6,7 @@ description: "Discover the real cost of buying a home in Florida. From insurance
 slug: "true-cost-buying-home-florida"
 tags: ["Florida Real Estate", "Homeownership Costs", "Florida Insurance", "Relocation Guide", "Cost of Living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The True Cost of Buying a Home in Florida: What You Need to Know

@@ -6,6 +6,7 @@ description: "Discover the true cost of buying a home in Florida. We break down 
 slug: "real-cost-buying-home-florida"
 tags: ["Florida Real Estate", "Homeownership Costs", "Florida Insurance", "Property Taxes", "Buying a Home"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Buying a Home in Florida: Beyond the Price Tag

@@ -6,6 +6,7 @@ description: "2024 guide on Florida housing market trends, regional price variat
 slug: "florida-real-estate-cost-of-living-2024"
 tags: ["Florida real estate", "cost of living", "housing market", "Florida moving guide", "property insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Florida Real Estate and Cost of Living: A Complete 2024 Guide

@@ -6,6 +6,7 @@ description: "Comprehensive breakdown of Florida real estate prices, insurance, 
 slug: "florida-home-costs-real-estate-living-expenses-guide"
 tags: ["Florida real estate", "home buying Florida", "cost of living Florida", "homeowners insurance Florida", "Florida market trends"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Ultimate Guide to Florida Home Costs, Real Estate, and Living Expenses

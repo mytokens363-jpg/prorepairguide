@@ -6,6 +6,7 @@ description: "Beyond no state income tax, Florida homeowners face high insurance
 slug: "true-cost-of-homeownership-in-florida"
 tags: ["Florida real estate", "home insurance", "property taxes"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 1624562c73cbf5ea

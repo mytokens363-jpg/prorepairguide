@@ -6,6 +6,7 @@ description: "Discover the true cost of moving to Florida in 2024. Analyze home 
 slug: "real-cost-moving-florida-2024-financial-blueprint"
 tags: ["Florida real estate", "Cost of living", "Moving to Florida", "Home insurance", "Florida taxes"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Moving to Florida: A 2024 Financial Blueprint

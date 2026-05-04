@@ -6,6 +6,7 @@ description: "Discover the real cost of living in Florida. Analyze housing price
 slug: "real-cost-of-living-florida-housing-taxes-budgeting"
 tags: ["Florida Cost of Living", "Florida Real Estate", "Homeownership Costs", "Florida Taxes", "Moving to Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Living in Florida: Housing, Taxes, and Budgeting

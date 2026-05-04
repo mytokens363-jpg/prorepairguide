@@ -6,6 +6,7 @@ description: "Discover the real cost of living in Florida. We break down home pr
 slug: "true-cost-of-living-florida-home-insurance-taxes"
 tags: ["Florida Cost of Living", "Florida Real Estate", "Homeowners Insurance", "Florida Taxes", "Moving to Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 35b51848da7ccccc

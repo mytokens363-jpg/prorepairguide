@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. Analyze housing, insu
 slug: "real-price-paradise-florida-living-costs-guide"
 tags: ["Florida living costs", "Florida housing market", "Cost of living", "Florida insurance", "Moving to Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Price of Paradise: A Comprehensive Guide to Florida Living Costs

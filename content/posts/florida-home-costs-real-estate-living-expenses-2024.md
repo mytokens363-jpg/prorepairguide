@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. We break down 2024 ho
 slug: "florida-home-costs-real-estate-living-expenses-2024"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Property Taxes", "Moving to Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Ultimate Guide to Florida Home Costs, Real Estate, and Living Expenses

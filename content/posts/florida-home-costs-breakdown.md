@@ -6,6 +6,7 @@ description: "A granular breakdown of Florida homebuying costs—including prope
 slug: "florida-home-costs-breakdown"
 tags: ["Florida real estate", "homeownership costs", "property taxes"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 ## Introduction

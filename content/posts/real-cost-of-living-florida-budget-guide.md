@@ -6,6 +6,7 @@ description: "Discover the real cost of living in Florida. We break down housing
 slug: "real-cost-of-living-florida-budget-guide"
 tags: ["Cost of Living", "Florida Real Estate", "Moving to Florida", "Homeownership Costs", "Florida Insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Living in Florida: What to Budget Before You Move

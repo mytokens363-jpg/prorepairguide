@@ -6,6 +6,7 @@ description: "Discover the true cost of buying a home in Florida. Learn about me
 slug: "buying-a-home-in-florida-costs-taxes-market-guide"
 tags: ["Florida Real Estate", "Home Buying Guide", "Property Taxes", "Homeowners Insurance", "Cost of Living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Ultimate Guide to Buying a Home in Florida: Costs, Taxes, and Market Realities

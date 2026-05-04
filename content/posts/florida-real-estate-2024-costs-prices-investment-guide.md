@@ -6,6 +6,7 @@ description: "Explore Florida real estate in 2024: median home prices, insurance
 slug: "florida-real-estate-2024-costs-prices-investment-guide"
 tags: ["Florida Real Estate", "Home Buying Guide", "Real Estate Investment", "Cost of Living", "Housing Market Trends"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 505a304e65e88131

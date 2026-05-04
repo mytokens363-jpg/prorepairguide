@@ -6,6 +6,7 @@ description: "Discover the true cost of buying a home in Florida. Analyze insura
 slug: "real-cost-buying-home-florida-beyond-sticker-price"
 tags: ["Florida Real Estate", "Home Buying Guide", "Property Insurance", "Cost of Living", "Florida Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Buying a Home in Florida: Beyond the Sticker Price

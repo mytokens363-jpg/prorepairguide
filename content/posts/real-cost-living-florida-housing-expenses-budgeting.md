@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. From median home pric
 slug: "real-cost-living-florida-housing-expenses-budgeting"
 tags: ["Florida Real Estate", "Cost of Living", "Homeownership", "Financial Planning", "Insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

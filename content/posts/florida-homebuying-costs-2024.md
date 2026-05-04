@@ -6,6 +6,7 @@ description: "Explore Florida's regional home prices, insurance, taxes, and hidd
 slug: "florida-homebuying-costs-2024"
 tags: ["Florida real estate", "home buying costs", "property taxes Florida", "insurance premiums", "regional housing market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # d46b50cea467eac8

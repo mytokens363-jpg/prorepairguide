@@ -6,6 +6,7 @@ description: "A data-driven guide to Florida real estate costs in 2024—coverin
 slug: "florida-homeownership-cost-2024"
 tags: ["Florida real estate", "homeownership costs", "property insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 317594b4f56aeb49

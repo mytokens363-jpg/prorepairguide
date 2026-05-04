@@ -6,6 +6,7 @@ description: "A breakdown of Florida’s real estate trends, regional cost dispa
 slug: "cost-of-moving-to-florida-real-estate-expenses"
 tags: ["Florida real estate", "cost of living", "migration trends", "home insurance", "property taxes"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # afa359e7fc8d4079

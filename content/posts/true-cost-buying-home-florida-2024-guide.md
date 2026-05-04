@@ -6,6 +6,7 @@ description: "Discover the real costs of buying a home in Florida in 2024. From 
 slug: "true-cost-buying-home-florida-2024-guide"
 tags: ["Florida Real Estate", "Home Buying Costs", "Florida Insurance", "Property Taxes", "2024 Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The True Cost of Buying a Home in Florida (2024 Guide)

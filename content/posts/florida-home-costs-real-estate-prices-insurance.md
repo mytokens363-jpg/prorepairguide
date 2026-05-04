@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. We break down home pr
 slug: "florida-home-costs-real-estate-prices-insurance"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Florida Housing Market", "Homeownership Costs"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 7af458cd4a4bff3d

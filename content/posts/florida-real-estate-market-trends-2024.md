@@ -6,6 +6,7 @@ description: "Explore Florida's housing market trends, regional price variations
 slug: "florida-real-estate-market-trends-2024"
 tags: ["Florida real estate", "housing market", "retiree relocation", "property taxes", "coastal insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # fc9b7e5f2885b40f

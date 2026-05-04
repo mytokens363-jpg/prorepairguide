@@ -6,6 +6,7 @@ description: "Data-driven breakdown of Florida housing, insurance, taxes, and hi
 slug: "cost-of-living-florida-2024-guide"
 tags: ["Florida cost of living", "Florida housing market", "property taxes Florida", "home insurance Florida", "relocation costs"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Living in Florida: A Complete Financial Guide for New Residents

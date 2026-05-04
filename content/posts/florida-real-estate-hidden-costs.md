@@ -6,6 +6,7 @@ description: "Explore Florida's true cost of homeownership—including insurance
 slug: "florida-real-estate-hidden-costs"
 tags: ["Florida real estate", "homeownership costs", "property insurance", "regional housing markets"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 92539c24380e8825

@@ -6,6 +6,7 @@ description: "Discover the real cost of living in Florida. We break down home pr
 slug: "florida-home-costs-real-estate-living-expenses"
 tags: ["Florida Real Estate", "Cost of Living", "Home Buying", "Property Taxes", "Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

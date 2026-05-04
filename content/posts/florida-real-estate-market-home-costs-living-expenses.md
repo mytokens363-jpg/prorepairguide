@@ -6,6 +6,7 @@ description: "Explore Florida's 2024 real estate market. Learn about median home
 slug: "florida-real-estate-market-home-costs-living-expenses"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Property Taxes", "Moving to Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Florida Real Estate Market: Home Costs and Living Expenses Explained

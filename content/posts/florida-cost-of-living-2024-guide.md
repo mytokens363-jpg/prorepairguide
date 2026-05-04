@@ -6,6 +6,7 @@ description: "A data-driven 2024 guide to Florida's hidden costs: housing, insur
 slug: "florida-cost-of-living-2024-guide"
 tags: ["Florida cost of living", "real estate Florida", "moving to Florida", "home insurance Florida", "Florida regional costs"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Real Cost of Living in Florida: A 2024 Financial Guide for New Residents

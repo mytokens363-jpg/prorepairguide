@@ -6,6 +6,7 @@ description: "Discover the true cost of buying and living in Florida. Analyze ho
 slug: "cost-of-buying-and-living-in-florida"
 tags: ["Florida Real Estate", "Cost of Living", "Homeowners Insurance", "Property Taxes", "Florida Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 6f0fb420d5218555

@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. Analyze median home p
 slug: "real-cost-of-living-florida-housing-insurance"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Florida Housing Market", "Utility Costs"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 9c3e86bfdcc0cdda

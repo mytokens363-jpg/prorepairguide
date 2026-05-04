@@ -6,6 +6,7 @@ description: "Detailed breakdown of Florida home prices, insurance, taxes, HOA f
 slug: "florida-home-costs-market-trends-living-expenses"
 tags: ["Florida real estate", "home prices", "cost of living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

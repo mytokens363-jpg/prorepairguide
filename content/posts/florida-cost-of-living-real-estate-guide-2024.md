@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida in 2024. Get data-driv
 slug: "florida-cost-of-living-real-estate-guide-2024"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Property Taxes", "Moving to Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Florida Cost of Living and Real Estate Guide 2024

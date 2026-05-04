@@ -6,6 +6,7 @@ description: "A data-driven breakdown of Florida home prices by region, insuranc
 slug: "florida-real-estate-costs-guide"
 tags: ["Florida real estate", "home prices", "cost of living", "climate risk", "housing market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # a94f0f68cfdeedc4

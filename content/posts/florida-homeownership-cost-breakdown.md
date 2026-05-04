@@ -6,6 +6,7 @@ description: "Explore Florida's rising home prices, insurance, and utility costs
 slug: "florida-homeownership-cost-breakdown"
 tags: ["Florida real estate", "cost of living", "homebuying"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # a1dcd5dfe0bdbc2e

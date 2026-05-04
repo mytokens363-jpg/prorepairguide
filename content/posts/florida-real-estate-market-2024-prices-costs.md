@@ -6,6 +6,7 @@ description: "Explore Florida's 2024 real estate market. Get insights on median 
 slug: "florida-real-estate-market-2024-prices-costs"
 tags: ["Florida Real Estate", "Home Prices 2024", "Real Estate Investment", "Florida Housing Market", "Home Insurance Costs"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Navigating the Florida Real Estate Market: Prices, Costs, and What to Expect in 2024

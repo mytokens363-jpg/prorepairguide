@@ -6,6 +6,7 @@ description: "Discover the real cost of owning a home in Florida. We break down 
 slug: "true-cost-owning-home-florida-2024-buyers-guide"
 tags: ["Florida Real Estate", "Homeownership Costs", "Florida Insurance", "Property Taxes", "2024 Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The True Cost of Owning a Home in Florida: A 2024 Buyer's Guide

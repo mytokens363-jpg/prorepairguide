@@ -6,6 +6,7 @@ description: "Navigate Florida's 2024 real estate market. Learn about median pri
 slug: "buying-real-estate-florida-2024-guide"
 tags: ["Florida Real Estate", "Home Buying Guide", "Real Estate Investment", "Florida Housing Market", "Mortgage Trends"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Complete Guide to Buying Real Estate in Florida in 2024

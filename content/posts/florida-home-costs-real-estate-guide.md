@@ -6,6 +6,7 @@ description: "Explore Florida home costs, real estate trends, and living expense
 slug: "florida-home-costs-real-estate-guide"
 tags: ["Florida Real Estate", "Home Costs", "Property Taxes", "Homeowners Insurance", "Cost of Living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

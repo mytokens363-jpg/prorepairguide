@@ -6,6 +6,7 @@ description: "A data-driven breakdown of Florida's 2024 financial realities: hom
 slug: "florida-cost-of-living-2024-financial-guide"
 tags: ["Florida housing market", "cost of living Florida", "real estate trends 2024", "homebuyer challenges"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # cb885f58f874ae0a

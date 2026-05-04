@@ -6,6 +6,7 @@ description: "Explore Florida real estate prices, living costs, and market trend
 slug: "florida-real-estate-guide-market-prices-living-costs-trends"
 tags: ["Florida Real Estate", "Home Prices", "Cost of Living", "Property Taxes", "Homeowners Insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Florida Real Estate Guide: Market Prices, Living Costs, and Trends

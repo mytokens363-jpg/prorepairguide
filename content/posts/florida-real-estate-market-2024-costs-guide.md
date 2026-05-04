@@ -6,6 +6,7 @@ description: "Explore Florida’s 2024 housing market: median prices by region, 
 slug: "florida-real-estate-market-2024-costs-guide"
 tags: ["Florida real estate", "home buying Florida", "property taxes Florida", "homeowners insurance Florida", "housing market trends"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 ## Navigating the Real Estate Landscape in the Sunshine State

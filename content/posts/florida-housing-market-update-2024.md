@@ -6,6 +6,7 @@ description: "Explore the 2024 Florida housing market. Get insights on median ho
 slug: "florida-housing-market-update-2024"
 tags: ["Florida Real Estate", "Housing Market 2024", "Home Prices", "Real Estate Trends", "Florida Insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Florida Housing Market Update 2024: Prices, Trends, and What Buyers Need to Know

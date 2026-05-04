@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. Analyze home prices, 
 slug: "florida-cost-of-living-home-prices-2024-guide"
 tags: ["Florida Real Estate", "Cost of Living", "Homeownership Costs", "Florida Insurance", "Regional Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # c1ceff33bba4d74d

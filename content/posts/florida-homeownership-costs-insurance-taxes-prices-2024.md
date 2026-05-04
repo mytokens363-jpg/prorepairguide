@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. We break down home pr
 slug: "florida-homeownership-costs-insurance-taxes-prices-2024"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Property Taxes", "Florida Housing Market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # a843f50e65efe914

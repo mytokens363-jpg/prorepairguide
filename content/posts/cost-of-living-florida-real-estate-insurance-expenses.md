@@ -6,6 +6,7 @@ description: "Discover the true cost of living in Florida. Analyze housing price
 slug: "cost-of-living-florida-real-estate-insurance-expenses"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Florida Housing Market", "Relocation Guide"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 21f820991b5f2839

@@ -6,6 +6,7 @@ description: "Discover the true cost of the Florida dream. Analyze housing price
 slug: "real-cost-of-living-in-florida"
 tags: ["Florida Real Estate", "Cost of Living", "Homeownership", "Florida Taxes", "Insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 8fadd5e2e0541ca8

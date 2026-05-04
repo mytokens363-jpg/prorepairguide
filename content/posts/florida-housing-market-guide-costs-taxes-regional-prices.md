@@ -6,6 +6,7 @@ description: "Explore the Florida housing market: regional price variations, ins
 slug: "florida-housing-market-guide-costs-taxes-regional-prices"
 tags: ["Florida Real Estate", "Housing Market", "Home Buying Tips", "Cost of Living", "Florida Taxes"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Navigating the Florida Housing Market

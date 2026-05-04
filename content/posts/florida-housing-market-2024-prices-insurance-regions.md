@@ -6,6 +6,7 @@ description: "A data-driven overview of Florida's housing market, including medi
 slug: "florida-housing-market-2024-prices-insurance-regions"
 tags: ["Florida real estate", "home prices", "property taxes", "home insurance", "cost of living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 ## Understanding the Florida Housing Market

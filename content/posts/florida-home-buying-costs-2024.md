@@ -6,6 +6,7 @@ description: "Breakdown of Florida home ownership costs—including insurance, t
 slug: "florida-home-buying-costs-2024"
 tags: ["Florida real estate", "homeownership costs", "property insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 2a92b301ff93b9e0

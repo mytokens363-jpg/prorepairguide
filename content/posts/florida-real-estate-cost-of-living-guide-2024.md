@@ -6,6 +6,7 @@ description: "Explore Florida real estate trends, housing costs, insurance premi
 slug: "florida-real-estate-cost-of-living-guide-2024"
 tags: ["Florida Real Estate", "Cost of Living", "Home Insurance", "Property Tax", "Retirement Planning"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 00d6da300a94eadf

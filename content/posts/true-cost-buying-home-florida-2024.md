@@ -6,6 +6,7 @@ description: "Discover the real costs of owning a home in Florida. From insuranc
 slug: "true-cost-buying-home-florida-2024"
 tags: ["Florida Real Estate", "Home Buying Costs", "Florida Insurance", "Property Taxes", "Cost of Living"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # 934e33e9bcfd0de8
