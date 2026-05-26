@@ -1,5 +1,5 @@
 ---
-title: "Best Gutter Cleanings in Newark NJ"
+title: "Best Gutter Cleaning in Newark NJ"
 date: 2026-05-26
 draft: false
 description: "Protect your Newark home from water damage. Learn why professional gutter cleaning is essential, how to choose a provider, and local pricing & tips."
